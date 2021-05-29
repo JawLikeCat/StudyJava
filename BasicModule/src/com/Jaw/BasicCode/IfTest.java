@@ -5,10 +5,10 @@ public class IfTest {
 
     public static void main(String[] args) {
 
-        func1();
-        func2();
-        func3();
-        fun4();
+//        func1();
+//        func2();
+//        func3();
+        func4();
     }
 
     public static void func1(){
@@ -77,7 +77,7 @@ public class IfTest {
             System.out.println(rank);
     }
 
-    public static void fun4(){
+    public static void func4(){
 
         Scanner userInput = new Scanner(System.in);
         System.out.print("请输入天气状况,1代表雨天,0代表晴天:");
@@ -85,11 +85,13 @@ public class IfTest {
         System.out.print("您是男孩还是女孩,1代表男孩,0代表女孩:");
         int sex = userInput.nextInt();
 
-        if (weather == 1){
-            if (sex == 1){
-                System.out.println("打一把大黑伞");
-            }else {
-                System.out.println("打一把小花伞");
+        if ((weather != 0 && weather != 1) || (sex != 0 && sex != 1) ){
+            System.out.println("输入不合法");
+        }else if (weather == 1){
+                if (sex == 1){
+                    System.out.println("打一把大黑伞");
+                }else {
+                    System.out.println("打一把小花伞");
             }
         }else {
             if (sex == 1){

@@ -40,7 +40,9 @@ public class SwitchTest {
 
     public static void main(String[] args) {
 
-        func1();
+//        func1();
+        func2();
+        func3();
 
     }
 
@@ -59,6 +61,71 @@ public class SwitchTest {
                 break;
             default:
                 System.out.println("default");
+        }
+
+    }
+
+    public static void func2(){
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.print("please input a num:");
+        int num = userInput.nextInt();
+
+
+        switch (num){
+            case 1:
+                System.out.println("星期一");
+                break;
+            case 2:
+                System.out.println("星期二");
+                break;
+            case 3:
+                System.out.println("星期三");
+                break;
+            case 4:
+                System.out.println("星期四");
+                break;
+            case 5:
+                System.out.println("星期五");
+                break;
+            case 6:
+                System.out.println("星期六");
+                break;
+            case 7:
+                System.out.println("星期日");
+                break;
+        }
+
+    }
+
+    public static void func3(){
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.print("please input a num:");
+        int num = userInput.nextInt();
+
+
+        switch (num){
+            case 1:
+                System.out.println("星期一");
+            case 2:
+                System.out.println("星期二");
+                break;
+            case 3:
+                System.out.println("星期三");
+                break;
+            case 4:
+                System.out.println("星期四");
+                break;
+            case 5:
+                System.out.println("星期五");
+                break;
+            case 6:
+                System.out.println("星期六");
+                break;
+            case 7:
+                System.out.println("星期日");
+                break;
         }
 
     }
