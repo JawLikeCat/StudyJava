@@ -1,6 +1,6 @@
 package com.Jaw.BasicCode;
 
-public class IdentiferTest {
+public class IdentifierTest {
     /* 标识符命名规则：
         1.标识符只能由数字、字母（包括中文）、下划线、美元符号$组成，不能含有其他符号
         2.标识符不能以数字开头

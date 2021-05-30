@@ -5,17 +5,17 @@ public class IfTest {
 
     public static void main(String[] args) {
 
-//        func1();
-//        func2();
-//        func3();
+        func1();
+        func2();
+        func3();
         func4();
     }
 
     public static void func1(){
 
-        Scanner userIput = new Scanner(System.in);
+        Scanner userInput = new Scanner(System.in);
         System.out.print("请输入您的年龄:");
-        int age = userIput.nextInt();
+        int age = userInput.nextInt();
 
         if (age < 0 || age > 100 ){
             System.out.println("您输入的年龄异常");
@@ -34,9 +34,9 @@ public class IfTest {
 
     public static void func2(){
 
-        Scanner userIput = new Scanner(System.in);
+        Scanner userInput = new Scanner(System.in);
         System.out.print("请输入您的年龄:");
-        int age = userIput.nextInt();
+        int age = userInput.nextInt();
         String str = "老年人";
 
         if (age < 0 || age > 100){

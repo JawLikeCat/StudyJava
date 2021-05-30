@@ -40,9 +40,11 @@ public class SwitchTest {
 
     public static void main(String[] args) {
 
-//        func1();
+        func1();
         func2();
         func3();
+        func4();
+        func5();
 
     }
 
@@ -100,6 +102,10 @@ public class SwitchTest {
 
     public static void func3(){
 
+        /*
+            case穿透
+         */
+
         Scanner userInput = new Scanner(System.in);
         System.out.print("please input a num:");
         int num = userInput.nextInt();
@@ -127,6 +133,71 @@ public class SwitchTest {
                 System.out.println("星期日");
                 break;
         }
+
+    }
+
+    public static void func4(){
+
+        /*
+            case合并
+         */
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.print("please input a num:");
+        int num = userInput.nextInt();
+
+
+        switch (num){
+            case 1: case 2: case 3:
+                System.out.println("星期一");
+                System.out.println("星期二");
+                System.out.println("星期三");
+                break;
+            case 4:
+                System.out.println("星期四");
+                break;
+            case 5:
+                System.out.println("星期五");
+                break;
+            case 6:
+                System.out.println("星期六");
+                break;
+            case 7:
+                System.out.println("星期日");
+                break;
+        }
+
+    }
+
+    public static void func5(){
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.print("请输入你的成绩:");
+        double scores = userInput.nextDouble();
+
+        if (scores < 0 || scores > 100){
+            System.out.println("输入异常");
+            return;
+        }
+        int grade = (int)(scores / 10);
+        String str = "不及格";
+
+        switch (grade){
+
+            case 10: case 9:
+                str = "优";
+                break;
+            case 8:
+                str = "良";
+                break;
+            case 7:
+                str = "中";
+                break;
+            case 6:
+                str = "及格";
+                break;
+        }
+        System.out.println(str);
 
     }
 }
