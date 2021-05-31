@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="Commit message">
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +32,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork03">
+  <component name="RunManager" selected="Application.HomeWork01">
     <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.ForTest" />
       <module name="BasicModule" />
@@ -104,9 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork01" />
         <item itemvalue="Application.HomeWork03" />
         <item itemvalue="Application.HomeWork02" />
-        <item itemvalue="Application.HomeWork01" />
         <item itemvalue="Application.WhileTest" />
         <item itemvalue="Application.ForTest" />
       </list>
@@ -155,6 +153,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit message" />
