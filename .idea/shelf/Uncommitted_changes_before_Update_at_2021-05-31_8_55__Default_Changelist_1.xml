@@ -1,0 +1,39 @@
+<changelist name="Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1" date="1622422556685" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2021-05-31 8:55 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/DateTypeTest.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/DateTypeTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/DateTypeTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/HelloWorld.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/HelloWorld.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/HelloWorld.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/SwitchTest.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/SwitchTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/SwitchTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/UserIput.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/UserIput.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/UserIput.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/IdentiferTest.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/IdentiferTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/IdentiferTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/IfTest.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/IfTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/IfTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="out/production/BasicModule/com/jaw/BasicCode/VariableTest.class" />
+    <option name="AFTER_PATH" value="out/production/BasicModule/com/jaw/BasicCode/VariableTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021-05-31_8_55_[Default_Changelist]1/VariableTest.class" />
+  </binary>
+</changelist>
