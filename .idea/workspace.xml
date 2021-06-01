@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="Commit message">
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="add HomeWork04">
+      <change beforePath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork04.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +32,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork03">
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.ForTest" />
-      <module name="BasicModule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Jaw.BasicCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HomeWork04">
     <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.HomeWork01" />
       <module name="BasicModule" />
@@ -89,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.HomeWork04" />
+      <module name="BasicModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Jaw.BasicCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.WhileTest" />
       <module name="BasicModule" />
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork04" />
+        <item itemvalue="Application.HomeWork01" />
         <item itemvalue="Application.HomeWork03" />
         <item itemvalue="Application.HomeWork02" />
-        <item itemvalue="Application.HomeWork01" />
         <item itemvalue="Application.WhileTest" />
-        <item itemvalue="Application.ForTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,12 +140,31 @@
       <option name="project" value="LOCAL" />
       <updated>1622431918435</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Message">
+      <created>1622467532221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622467532221</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add HomeWork04">
+      <created>1622469316741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622469316741</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="0dad726a-fdff-42da-8d7b-844ac7f7c2f3">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -155,9 +172,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit message" />
+    <MESSAGE value="Commit Message" />
+    <MESSAGE value="add HomeWork04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HomeWork04" />
   </component>
 </project>
