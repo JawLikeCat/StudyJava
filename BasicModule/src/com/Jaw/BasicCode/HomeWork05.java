@@ -1,4 +1,5 @@
 package com.Jaw.BasicCode;
+import java.util.Scanner;
 
 public class HomeWork05 {
     /*
@@ -10,8 +11,24 @@ public class HomeWork05 {
             *********
      */
     public static void main(String[] args) {
-        for (int i = 0; i < 10; i++) {
-            
+
+        Scanner userInput = new Scanner(System.in);
+        System.out.print("请输入一个正整数：");
+        int num = userInput.nextInt();
+        if (num > 0) {
+            for (int i = 1; i <= num; i++) {
+                for (int j = (num - i); j > 0 ; j--) {
+                    System.out.print(" ");
+                }
+                for (int j = 1; j <= ((i-1) * 2 + 1); j++) {
+                    System.out.print("*");
+                }
+                for (int j = (num - i); j > 0 ; j--) {
+                    System.out.print(" ");
+                }
+                System.out.println();
+            }
         }
+
     }
 }
