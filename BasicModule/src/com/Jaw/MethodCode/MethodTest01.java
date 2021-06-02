@@ -25,10 +25,38 @@ public class MethodTest01 {
                 简称：形参
                 注意：形式参数列表中的每一个参数都是"局部变量"，方法结束后内存释放。
                 形参的个数是：0~n个
+        2、方法的调用
+            方法通过类名.方法名(实际参数列表)；
+            实参和形参的类型必须一一对应，另外个数也要一一对应。
+            a()方法在调用b()方法的时候，若a和b方法在同一个类中则可以省略类名
 
      */
 
     public static void main(String[] args) {
 
+        System.out.println("main begin");
+        func1();
+        MethodTestSub.func1();
+        func2();
+        System.out.println("main over");
+    }
+
+    public static void  func1() {
+
+        System.out.println("this is func1");
+    }
+
+    public static void func2() {
+
+        System.out.println("this is func2");
+        MethodTestSub.func1();                    //不止只有main()方法可以调用方法
+    }
+}
+
+class MethodTestSub {
+
+    public static void func1() {
+
+        System.out.println("this is MethodTestSub.func1");
     }
 }

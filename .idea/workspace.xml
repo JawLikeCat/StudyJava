@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/BasicCode/HomeWork08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_1_20_55__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_6_1_20_55__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="add HomeWork08">
+      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasicModule/com/jaw/MethodCode/MethodTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BasicModule/com/jaw/MethodCode/MethodTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,33 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.HomeWork08">
-    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.HomeWork01" />
-      <module name="BasicModule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Jaw.BasicCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.HomeWork02" />
-      <module name="BasicModule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Jaw.BasicCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodTest02">
     <configuration name="HomeWork03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Jaw.BasicCode.HomeWork03" />
       <module name="BasicModule" />
@@ -101,13 +76,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Jaw.MethodCode.MethodTest01" />
+      <module name="BasicModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Jaw.MethodCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Jaw.MethodCode.MethodTest02" />
+      <module name="BasicModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Jaw.MethodCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodTest02" />
+        <item itemvalue="Application.MethodTest01" />
         <item itemvalue="Application.HomeWork08" />
         <item itemvalue="Application.HomeWork05" />
         <item itemvalue="Application.HomeWork03" />
-        <item itemvalue="Application.HomeWork02" />
-        <item itemvalue="Application.HomeWork01" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622541451338</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add HomeWork08">
+      <created>1622604829200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622604829200</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +202,7 @@
     <MESSAGE value="Commit message add homework" />
     <MESSAGE value="Commit out dir" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="add HomeWork08" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HomeWork08" />
   </component>
 </project>
