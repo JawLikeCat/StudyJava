@@ -6,8 +6,8 @@ public class MethodHomeWork01 {
      */
     public static void main(String[] args) {
 
-        findPrimeNumber2(55);
-        findPrimeNumber3(55);
+        findPrimeNumber2(62);
+        findPrimeNumber3(62);
     }
 
 
