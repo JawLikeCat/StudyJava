@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="add HomeWork08">
-      <change afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodHomeWork01.java" afterDir="false" />
+    <list default="true" id="3d6723b8-58cc-43f2-b646-d8607832b55e" name="Default Changelist" comment="add MethodHomeWork01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodHomeWork01.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicModule/src/com/Jaw/MethodCode/MethodHomeWork01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622627817319</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add MethodHomeWork01">
+      <created>1622706800591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622706800591</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +215,7 @@
     <MESSAGE value="Commit out dir" />
     <MESSAGE value="Commit" />
     <MESSAGE value="add HomeWork08" />
-    <option name="LAST_COMMIT_MESSAGE" value="add HomeWork08" />
+    <MESSAGE value="add MethodHomeWork01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add MethodHomeWork01" />
   </component>
 </project>
